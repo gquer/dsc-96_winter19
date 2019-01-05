@@ -32,6 +32,6 @@ This Financial Times article visually describes the French election
 results along a number of commonly used dimensions: geography, age,
 income level, education level, and passing time.
 
-4. Eremenko Chapter 1
+4. Kirill Eremenko, Confident Data Skills,  Chapter 1
 
 Thinking about all the ways that data is generated.
