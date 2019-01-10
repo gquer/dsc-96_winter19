@@ -1,4 +1,4 @@
-# \DSC 96
+# DSC 96
 Workshop in Data Science: Asking Questions about Data
 
 Instructor: Giorgio Quer
