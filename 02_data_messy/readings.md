@@ -22,3 +22,6 @@ drastically effect the statistics of what's being measured.
 3. [OPTIONAL]: 
 Review some of the concepts introduced in the class about missing data, and some of the common solutions with implementations in Python code:
 * [Optional](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
+
+Additional on college ranking.
+* [More on college ranking](https://www.washingtonpost.com/news/answer-sheet/wp/2017/09/12/the-problem-with-the-2018-u-s-news-rankings-junk-in-junk-out/)
