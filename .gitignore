@@ -1,6 +1,6 @@
 # OS generated files #
 ######################
-not_shared/*
+/not_shared/*
 
 # Compiled source #
 ###################
