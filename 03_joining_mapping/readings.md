@@ -2,7 +2,7 @@
 
 Write an email with Subject: [DSC 96 W03 SecA|C Journal]: Name LastName
 
-1. [We'€™re Measuring the Economy All Wrong](https://www.nytimes.com/2018/09/14/opinion/columnists/great-recession-economy-gdp.html)
+1. [We`re Measuring the Economy All Wrong](https://www.nytimes.com/2018/09/14/opinion/columnists/great-recession-economy-gdp.html)
    
 Much of working in data science consists of translating your intuition
 into quantitative measurements. The NY Times article discusses the
