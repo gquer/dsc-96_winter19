@@ -1,6 +1,8 @@
 # Readings for the week
 
-Write an email with Subject: [DSC 96 W03 SecA|C Journal]: Name LastName
+Write an email with Subject: 
+
+[DSC 96 W03 SecA|C Journal]: Name LastName
 
 1. [We`re Measuring the Economy All Wrong](https://www.nytimes.com/2018/09/14/opinion/columnists/great-recession-economy-gdp.html)
    
