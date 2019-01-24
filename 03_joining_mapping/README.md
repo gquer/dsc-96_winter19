@@ -8,11 +8,12 @@ Often a single data source does not have all of the information that we need.  J
 
 Using the SDPD data from last week as the base, we will join on data about race and a table with additional details about each stop.
 
-## Metrics and Answering Questions
+## Links
 
-A big part of data science is using math and data to answer questions.  But how do you translate questions into equations?
+I found making a map from the .geojson file confusing, and [this link](https://onlinehelp.tableau.com/current/pro/desktop/en-us/maps_shapefiles.html#Build) was very helpful.
 
-For example, we might ask if traffic enforcement is fair with respect to gender.  An initial examination shows that men are pulled over twice as often as women.  But do they drive twice as much?  Twice as recklessly?  What data could we use to get at the big picture?
+## Aggregate functions
+https://onlinehelp.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_aggregate_create.htm
 
 ## Assigned Readings
 

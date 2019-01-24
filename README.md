@@ -46,7 +46,7 @@ Projects are worked on during class and must be turned in to the instructor via 
 presentation if you are motivated. A little extra work can make a great project to show off on your resume.
 
 ### Project due dates:
-* SDPD traffic stops Tableau project (Due 01/24)
+* SDPD traffic stops Tableau project (Due 01/30)
 * Favorite of the "why did it happen?" (Due 02/26)
 * SDPD traffic stops final project (Due 03/14)
 

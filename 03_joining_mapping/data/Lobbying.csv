@@ -1,0 +1,132 @@
+Entity-cleaned,Entity,Compensation,Expenses,entity_type,fips,City,County,State
+Algona,City Of Algona,"$18,000.00 ",$0.00 ,CITIES,5301290,Algona,,WA
+Arlington,City Of Arlington,"$13,687.50 ",$0.00 ,CITIES,5302585,Arlington,,WA
+Auburn,City Of Auburn,"$1,900.00 ",$0.00 ,CITIES,5303180,Auburn,,WA
+Battle Ground,City Of Battle Ground,"$12,000.00 ",$0.00 ,CITIES,5304475,Battle Ground,,WA
+Bellevue,City Of Bellevue,"$19,000.00 ",$0.00 ,CITIES,5305210,Bellevue,,WA
+Bellingham,City Of Bellingham,"$5,733.32 ","$4,332.68 ",CITIES,5305280,Bellingham,,WA
+Burien,City Of Burien,"$18,000.00 ",$0.00 ,CITIES,5308850,Burien,,WA
+College Place,City Of College Place,"$2,000.00 ",$0.00 ,CITIES,5313855,College Place,,WA
+Covington,City Of Covington,"$7,166.68 ",$0.00 ,CITIES,5315290,Covington,,WA
+Edmonds,City Of Edmonds,"$16,540.00 ",$0.00 ,CITIES,5320750,Edmonds,,WA
+Everett,City Of Everett,"$40,200.00 ","$1,099.55 ",CITIES,5322640,Everett,,WA
+Federal Way,City Of Federal Way,"$22,000.00 ",$490.00 ,CITIES,5323515,Federal Way,,WA
+Fife,City Of Fife,"$11,200.00 ",$861.47 ,CITIES,5323795,Fife,,WA
+Gig Harbor,City Of Gig Harbor,"$13,333.32 ",$0.00 ,CITIES,5326735,Gig Harbor,,WA
+Issaquah,City Of Issaquah,"$16,000.00 ","$1,045.69 ",CITIES,5333805,Issaquah,,WA
+Kenmore,City Of Kenmore,"$14,000.00 ",$0.00 ,CITIES,5335170,Kenmore,,WA
+Kennewick,City Of Kennewick,"$14,000.00 ",$397.94 ,CITIES,5335275,Kennewick,,WA
+Kent,City Of Kent,"$22,000.00 ","$1,128.93 ",CITIES,5335415,Kent,,WA
+Kirkland,City Of Kirkland,"$17,000.00 ",$0.00 ,CITIES,5335940,Kirkland,,WA
+La Center,City Of La Center,"$9,000.00 ","$6,588.50 ",CITIES,5336710,La Center,,WA
+Lacey,City Of Lacey,"$16,000.00 ",$0.00 ,CITIES,5336745,Lacey,,WA
+Lake Stevens,City Of Lake Stevens,"$1,687.50 ",$0.00 ,CITIES,5337900,Lake Stevens,,WA
+Lakewood,City Of Lakewood,"$12,000.00 ",$0.00 ,CITIES,5338038,Lakewood,,WA
+Longview,City Of Longview,"$16,000.00 ",$0.00 ,CITIES,5340245,Longview,,WA
+Maple Valley,City Of Maple Valley,"$10,000.00 ",$0.00 ,CITIES,5343150,Maple Valley,,WA
+Marysville,City Of Marysville,"$16,687.50 ",$0.00 ,CITIES,5343955,Marysville,,WA
+Mercer Island,City Of Mercer Island,"$8,000.00 ",$0.00 ,CITIES,5345005,Mercer Island,,WA
+Mountlake Terrace,City Of Mountlake Terrace,"$13,333.32 ",$0.00 ,CITIES,5347490,Mountlake Terrace,,WA
+Olympia,City Of Olympia,"$1,710.00 ",$0.00 ,CITIES,5351300,Olympia,,WA
+Omak,City Of Omak,"$6,000.00 ",$0.00 ,CITIES,5351340,Omak,,WA
+Pasco,City Of Pasco,"$12,600.00 ",$0.00 ,CITIES,5353545,Pasco,,WA
+Port Orchard,City Of Port Orchard,"$12,000.00 ",$0.00 ,CITIES,5355785,Port Orchard,,WA
+Puyallup,City Of Puyallup,"$15,733.32 ","$1,103.38 ",CITIES,5356695,Puyallup,,WA
+Quincy,City Of Quincy,"$2,812.50 ",$403.71 ,CITIES,5357115,Quincy,,WA
+Redmond,City Of Redmond,"$20,952.00 ","$1,112.81 ",CITIES,5357535,Redmond,,WA
+Renton,City Of Renton,"$18,400.00 ","$1,125.14 ",CITIES,5357745,Renton,,WA
+Richland,City Of Richland,"$10,800.00 ",$48.73 ,CITIES,5358235,Richland,,WA
+Ridgefield,City Of Ridgefield,"$12,000.00 ",$0.00 ,CITIES,5358410,Ridgefield,,WA
+Seatac,City Of Seatac,"$7,000.00 ",$0.00 ,CITIES,5362288,Seatac,,WA
+Seattle,City Of Seattle,"$126,504.00 ","$11,588.00 ",CITIES,5363000,Seattle,,WA
+Shelton,City Of Shelton,"$14,000.00 ",$0.00 ,CITIES,5363735,Shelton,,WA
+Shoreline,City Of Shoreline,"$25,900.00 ",$0.00 ,CITIES,5363960,Shoreline,,WA
+Snohomish,City Of Snohomish,"$1,687.50 ",$0.00 ,CITIES,5365170,Snohomish,,WA
+Spokane,City Of Spokane,"$19,250.00 ",$0.00 ,CITIES,5367000,Spokane,,WA
+Spokane Valley,City Of Spokane Valley,"$12,333.32 ",$0.00 ,CITIES,5367167,Spokane Valley,,WA
+Tacoma,City Of Tacoma,"$64,600.00 ","$9,500.00 ",CITIES,5370000,Tacoma,,WA
+Vancouver,City Of Vancouver,"$33,024.00 ",$0.00 ,CITIES,5374060,Vancouver,,WA
+Walla Walla,City Of Walla Walla,"$2,000.00 ",$0.00 ,CITIES,5375775,Walla Walla,,WA
+Yakima,City Of Yakima,"$8,000.00 ",$0.00 ,CITIES,5380010,Yakima,,WA
+Yelm,City Of Yelm,"$16,000.00 ",$0.00 ,CITIES,5380220,Yelm,,WA
+Asotin County,Asotin County,$750.00 ,$0.00 ,COUNTIES,53003,,Asotin County,WA
+Clark County,Clark County,"$18,900.00 ",$0.00 ,COUNTIES,53011,,Clark County,WA
+Ferry County,Ferry Co Commission,"$11,400.00 ",$0.00 ,COUNTIES,53019,,Ferry County,WA
+Franklin County,Franklin County,"$1,000.00 ",$0.00 ,COUNTIES,53021,,Franklin County,WA
+Grant County,Grant County,"$1,200.00 ",$0.00 ,COUNTIES,53025,,Grant County,WA
+Jefferson County  ,Jefferson County  ,"$13,000.00 ",$0.00 ,COUNTIES,53031,,Jefferson County  ,WA
+King County,King County,"$90,159.00 ","$6,495.00 ",COUNTIES,53033,,King County,WA
+Klickitat County,Klickitat County,"$1,400.00 ",$0.00 ,COUNTIES,53039,,Klickitat County,WA
+Lincoln County,Lincoln County,"$1,000.00 ",$0.00 ,COUNTIES,53043,,Lincoln County,WA
+Pend Oreille County,Pend Oreille County,"$1,000.00 ",$0.00 ,COUNTIES,53051,,Pend Oreille County,WA
+Pierce County,Pierce County*,"$64,602.00 ","$3,200.00 ",COUNTIES,53053,,Pierce County,WA
+Snohomish County,Snohomish County,"$26,833.32 ",$0.00 ,COUNTIES,53061,,Snohomish County,WA
+Spokane County,Spokane County,"$16,000.00 ",$0.00 ,COUNTIES,53063,,Spokane County,WA
+Stevens County,Stevens County,"$1,200.00 ",$0.00 ,COUNTIES,53065,,Stevens County,WA
+Thurston County,Thurston County,"$2,076.00 ",$0.00 ,COUNTIES,53067,,Thurston County,WA
+Whatcom County,Whatcom County,"$18,347.00 ","$4,332.68 ",COUNTIES,53073,,Whatcom County,WA
+Whitman County,Whitman County,"$1,200.00 ",$0.00 ,COUNTIES,53075,,Whitman County,WA
+Yakima County,Yakima County,"$37,333.00 ",$461.00 ,COUNTIES,53077,,Yakima County,WA
+Association Of Washington Cities,Association Of Washington Cities,"$11,543.13 ","$16,015.01 ",OTHER,,,,WA
+Association Of Washington State Public Facilities Districts,Association Of Washington State Public Facilities Districts,"$8,000.00 ",$0.00 ,OTHER,,,,WA
+Central Puget Sound Regional Transit Authority,Central Puget Sound Regional Transit Authority,"$24,000.00 ",$3.00 ,OTHER,,,,WA
+Jefferson County Public Works,Jefferson County Public Works,"$15,200.00 ",$0.00 ,OTHER,,,,WA
+Metro Parks Of Tacoma,Metro Parks Of Tacoma,"$20,000.00 ",$0.00 ,OTHER,,,,WA
+Snohomish-King Water District Coalition,Snohomish-King Water District Coalition,"$9,453.00 ",$0.00 ,OTHER,,,,WA
+Superior Court Judges Association,Superior Court Judges Association,"$26,200.00 ",$0.00 ,OTHER,,,,WA
+Tacoma-Pierce County Health Dept,Tacoma-Pierce County Health Dept,"$14,000.00 ",$0.00 ,OTHER,,,,WA
+Washington Association Of Building Officials,Washington Association Of Building Officials,"$10,000.01 ","$1,022.95 ",OTHER,,,,WA
+Washington Association Of Counties,Washington Association Of Counties,"$13,095.08 ","$3,001.92 ",OTHER,,,,WA
+Washington Association Of County Officials,Washington Association Of County Officials,"$6,632.40 ",$0.00 ,OTHER,,,,WA
+Washington Fire Commissioners Association,Washington Fire Commissioners Association,"$24,907.04 ",$154.59 ,OTHER,,,,WA
+Washington Indian Gaming Association,Washington Indian Gaming Association,"$1,017.50 ","$78,301.85 ",OTHER,,,,WA
+Washington Public Ports Association,Washington Public Ports Association,"$55,882.27 ","$1,619.83 ",OTHER,,,,WA
+Washington State Association Of Fire Chiefs,Washington State Association Of Fire Chiefs,"$16,933.32 ","$1,910.74 ",OTHER,,,,WA
+Washington State Association Of Prosecuting Attorneys,Washington State Association Of Prosecuting Attorneys,"$10,424.16 ",$0.00 ,OTHER,,,,WA
+Washington State Association Of Sheriffs & Police Chiefs,Washington State Association Of Sheriffs & Police Chiefs,"$11,423.01 ",$0.00 ,OTHER,,,,WA
+Washington State Chapter Of Assoc Public Safety Communications Officials,Washington State Chapter Of Assoc Public Safety Communications Officials,"$6,400.00 ",$0.00 ,OTHER,,,,WA
+Washington State Emergency Managers Association,Washington State Emergency Managers Association,"$4,000.00 ",$671.71 ,OTHER,,,,WA
+Washington State Water Resources Association,Washington State Water Resources Association,"$16,333.32 ",$0.00 ,OTHER,,,,WA
+Port Of Bellingham,Port Of Bellingham,"$14,233.32 ","$5,332.68 ",PORTS,,,,WA
+Port Of Bremerton,Port Of Bremerton,"$7,205.00 ","$2,612.19 ",PORTS,,,,WA
+Port Of Centralia,Port Of Centralia,"$16,812.50 ",$0.00 ,PORTS,,,,WA
+Port Of Everett,Port Of Everett,"$15,000.00 ","$30,000.00 ",PORTS,,,,WA
+Port Of Kalama,Port Of Kalama,"$9,000.00 ",$0.00 ,PORTS,,,,WA
+Port Of Quincy,Port Of Quincy,"$8,000.00 ",$0.00 ,PORTS,,,,WA
+Port Of Royal Slope,Port Of Royal Slope,"$3,000.00 ",$0.00 ,PORTS,,,,WA
+Port Of Seattle,Port Of Seattle,"$28,700.00 ",$500.00 ,PORTS,,,,WA
+Port Of Tacoma,Port Of Tacoma,"$46,424.83 ",$352.00 ,PORTS,,,,WA
+Port Of Vancouver,Port Of Vancouver,"$16,666.64 ",$0.00 ,PORTS,,,,WA
+Port Of Walla Walla,Port Of Walla Walla,"$14,500.00 ",$74.45 ,PORTS,,,,WA
+Spokane Public Facilities District,Spokane Public Facilities District,"$12,000.00 ",$0.00 ,PUBLIC FACILITIES DISTRICTS,,,,WA
+Washington State Convention Center Public Facilities District,Washington State Convention Center Public Facilities District,"$12,000.00 ",$73.45 ,PUBLIC FACILITIES DISTRICTS,,,,WA
+Seattle Public Schools,Seattle Public Schools,"$14,500.00 ",$0.00 ,SCHOOL DISTRICTS,,,,WA
+Spokane Public Schools,Spokane Public Schools,"$14,000.00 ",$0.00 ,SCHOOL DISTRICTS,,,,WA
+Tacoma Public Schools,Tacoma Public Schools,"$20,000.00 ",$0.00 ,SCHOOL DISTRICTS,,,,WA
+Valley School District,Valley School District,"$12,000.00 ",$0.00 ,SCHOOL DISTRICTS,,,,WA
+Chehalis Confederated Tribes,Chehalis Confederated Tribes,"$4,500.00 ",$0.00 ,TRIBES,,,,WA
+Colville Confederated Tribes,Colville Confederated Tribes,"$25,500.00 ",$0.00 ,TRIBES,,,,WA
+Confederated Tribes Of The Umatilla Indian Reservation,Confederated Tribes Of The Umatilla Indian Reservation,"$13,305.00 ",$355.65 ,TRIBES,,,,WA
+Jamestown S'Klallam Tribe,Jamestown S'Klallam Tribe,"$20,000.00 ",$0.00 ,TRIBES,,,,WA
+Kalispel Tribe,Kalispel Tribe,"$69,000.00 ",$237.66 ,TRIBES,,,,WA
+Muckleshoot Indian Tribe,Muckleshoot Indian Tribe,"$77,371.88 ",$183.50 ,TRIBES,,,,WA
+Nisqually Indian Tribe,Nisqually Indian Tribe,"$29,333.32 ",$701.21 ,TRIBES,,,,WA
+Nooksack Indian Tribe,Nooksack Indian Tribe,"$14,000.00 ",$0.00 ,TRIBES,,,,WA
+Port Gamble S'Klallam Tribe,Port Gamble S'Klallam Tribe,"$20,000.00 ",$550.48 ,TRIBES,,,,WA
+Puyallup Tribe Of Indians,Puyallup Tribe Of Indians,"$86,400.00 ",$0.00 ,TRIBES,,,,WA
+Quinault Indian Nation,Quinault Indian Nation,"$25,500.00 ",$0.00 ,TRIBES,,,,WA
+Samish Indian Nation,Samish Indian Nation,"$18,000.00 ",$0.00 ,TRIBES,,,,WA
+Spokane Tribe Of Indians,Spokane Tribe Of Indians,"$19,500.00 ",$0.00 ,TRIBES,,,,WA
+Squaxin Island Tribe,Squaxin Island Tribe,"$12,000.00 ",$298.57 ,TRIBES,,,,WA
+Stillaguamish Tribe Of Indians,Stillaguamish Tribe Of Indians,"$6,000.00 ",$19.02 ,TRIBES,,,,WA
+Swinomish Indian Tribal Community,Swinomish Indian Tribal Community,"$24,000.00 ",$460.24 ,TRIBES,,,,WA
+Tulalip Tribes Of Washington,Tulalip Tribes Of Washington,"$23,500.00 ",$62.18 ,TRIBES,,,,WA
+Benton Public Utility District,Benton Public Utility District,"$8,700.00 ",$0.00 ,UTILITY DISTRICTS,,,,WA
+Chelan Public Utility District,Chelan Public Utility District,"$35,650.00 ",$67.00 ,UTILITY DISTRICTS,,,,WA
+Clark Public Utility District,Clark Public Utility District,"$14,340.00 ",$0.00 ,UTILITY DISTRICTS,,,,WA
+Grant Public Utility District,Grant Public Utility District,"$18,862.00 ",$0.00 ,UTILITY DISTRICTS,,,,WA
+Grays Harbor Public Utility District,Grays Harbor Public Utility District,"$1,078.00 ",$190.00 ,UTILITY DISTRICTS,,,,WA
+Lewis Public Utility District,Lewis Public Utility District,"$13,500.00 ",$0.00 ,UTILITY DISTRICTS,,,,WA
+Okanogan Public Utility District,Okanogan Public Utility District,"$9,300.00 ",$0.00 ,UTILITY DISTRICTS,,,,WA
+Public Utility District #1 Of Cowlitz County,Public Utility District #1 Of Cowlitz County,"$12,000.00 ",$0.00 ,UTILITY DISTRICTS,,,,WA
+Snohomish Public Utility District,Snohomish Public Utility District,"$15,000.00 ",$0.00 ,UTILITY DISTRICTS,,,,WA
