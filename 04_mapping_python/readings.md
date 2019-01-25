@@ -4,7 +4,7 @@ Write an email with Subject:
 
 [DSC 96 W04 SecA|C Journal]: Name LastName
 
-1. [Your computer may know you have Parkinson?s. Shall it tell you?](https://neuroscience.stanford.edu/news/your-computer-may-know-you-have-parkinson-s-shall-it-tell-you)
+1. [Your computer may know you have Parkinson`s. Shall it tell you?](https://neuroscience.stanford.edu/news/your-computer-may-know-you-have-parkinson-s-shall-it-tell-you)
 
 "every time people go online, they leave clues that could lead to earlier diagnoses of many serious health conditions."
 Read the first section of this article, talking about how much information we leave online, and the how complicated it is to move forward from an ethical perspective.
@@ -24,5 +24,7 @@ https://www.npr.org/sections/thetwo-way/2018/04/03/599069424/grindr-admits-it-sh
 If you want to go deeper on Ethical Research in Data Science, a few optional reading:
 
 [Rise of the health tech Ethicist](https://www.mmm-online.com/home/channel/features/rise-of-the-health-tech-ethicist/)
+
 [Responsible Research on Social Networks: Dilemmas andSolutions](https://haddadi.github.io/papers/digitalethics2017.pdf)
+
 [Ethical Research Protocols for Social Media Health Research](http://www.aclweb.org/anthology/W17-1612)
