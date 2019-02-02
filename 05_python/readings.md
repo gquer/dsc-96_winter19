@@ -1,17 +1,9 @@
-Reading on the troubles and pitfalls of inferring too much from
-images. Highlights difficulties in designing experiments to draw
-conclusions haphazardly collected data.
+# Readings for the week
 
-https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a
+1. [women in congress](https://pudding.cool/2018/07/women-in-congress/) 
 
-A handbook on how to spot photoshopped images. Required reading is
-section `3.4.2`, however feel free to read as much as interests
-you. WARNING: this paper dissects popular internet images and memes;
-while no content is 'rated R', some illustrations have content related
-to terrorism, as well as offensive photos related to body-image.
+2. [murder rates don't tell us everything about gun violence](https://fivethirtyeight.com/features/murder-rates-dont-tell-us-everything-about-gun-violence/)
 
-http://blackhat.com/presentations/bh-dc-08/Krawetz/Whitepaper/bh-dc-08-krawetz-WP.pdf
+3. [San Diego PD traffic stops analysis](http://www.sandiegouniontribune.com/news/public-safety/sd-me-traffic-stops-20161202-story.html)
 
-An exploration into predicting the gender of a face.
-
-http://gendershades.org/index.html
+4. Eremenko Ch 8, Data Visualization
