@@ -20,3 +20,4 @@ Additional reading (optional):
 Do you want to know more about AI and Deep Learning and their application in Medicine?
 You can give a look at this 2019 Review Article:
 https://www.nature.com/articles/s41591-018-0300-7.pdf
+NB: this is a long scientific article, I would suggest you to focus only on the sections you find more interesting . 
