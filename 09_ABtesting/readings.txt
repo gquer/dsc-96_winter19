@@ -1,0 +1,22 @@
+For this week, read and comment all three articles.
+
+Artificial Intelligence:
+
+1.
+https://www.nytimes.com/2018/11/05/opinion/artificial-intelligence-machine-learning.html
+This is a great introduction to the current advances, and the main limitations, of AI. "Programs that “read” documents and answer questions about them can easily be fooled into giving wrong answers when short, irrelevant snippets of text are appended to the document" "behind the facade of humanlike visual abilities, linguistic fluency and game-playing prowess, these programs do not — in any humanlike way — understand the inputs they process or the outputs they produce."
+
+2.
+https://www.thelancet.com/action/showPdf?pii=S0140-6736%2817%2931764-6
+Can AI assist our physician? is it already used inside the medical system, and what are the main limitations that prevents its full exploitation?
+"Adoption of AI in future clinical practice has the potential to be transformational.", but there are some issues explained in this brief perspective in The Lancet. 
+
+3.
+https://www.nytimes.com/interactive/2018/01/02/technology/ai-generated-photos.html
+We have explored in the past week a simple method to detect photoshopped images. AI indeed is already creating new content, new images, new audio, new text. In this article we will see how, and why it is important.
+
+4.
+Additional reading (optional):
+Do you want to know more about AI and Deep Learning and their application in Medicine?
+You can give a look at this 2019 Review Article:
+https://www.nature.com/articles/s41591-018-0300-7.pdf
